@@ -1,0 +1,188 @@
+/* Import the font stylesheet */
+@import './fonts.css';
+
+
+html {
+  
+  background-color: white; 
+ 
+}
+
+body {
+  margin: auto;
+  width: 98%;
+  max-width: 160ch;
+  padding: 1rem;
+  line-height: 1.5;
+
+  display: block; 
+
+  align-items: center; 
+  
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/*MAIN CONTAINER*/
+
+.main{
+  margin:auto;
+  max-width: 130ch;
+  padding: auto;
+  border: none;
+
+}
+
+/*SECTIONS*/
+section{
+  padding: auto;
+  margin: auto;
+  display: block;
+  align-items: center;
+  text-align: center;
+
+
+}
+
+
+/*Header*/
+
+.headr{
+  display: flex; /* Enables Flexbox layout */
+  justify-content: flex-start; /* Aligns items from left to right */
+  align-items: center; /* Vertically centers the items */
+  padding: 1rem; /* Adds padding around the header */
+  gap: 0.5rem; 
+
+}
+
+.headr > *:not(:first-child) {
+  margin-left: 0.5rem; /* Adjust this value to reduce the space */
+}
+
+
+
+/* HAMBURGER*/
+
+
+.hamburger {
+  padding-right: 10px;
+  padding-top: 5px;
+  cursor: pointer;
+}
+
+.hamburger .line {
+  display: block;
+  width: 30px;
+  height: 1px;
+  margin-bottom: 5px;
+  background-color: #000000;
+}
+
+/*NAVIGATION LINKS*/
+
+.nav-links {
+  width: 100%;
+  top: 5rem;
+  left: 0px;
+  
+  display: none;
+  margin: 0;
+}
+
+.nav-links a {
+  display: block;
+  text-align: left;
+  padding:  0;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  
+  text-transform: none;
+}
+
+.nav-links a:hover, a:focus {
+  color: #494949;
+}
+
+.expanded {
+  display: unset;
+}
+
+/*sizing*/
+
+@media screen and (min-width: 636px) {
+  .nav-links {
+    margin-left: 5em;
+    display: block;
+    position: static;
+    width: auto;
+    background: none;
+  }
+
+  .nav-links a {
+    display: inline-block;
+    padding: 15px 20px;
+  }
+
+  .hamburger {
+    display: none;
+  }
+}
+
+/*HERO*/
+
+.hero-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  
+  padding: auto;
+  margin: auto;
+}
+
+.hero-title {
+
+  margin-bottom: 20px;
+  margin-top: 10px;
+  padding: auto;
+
+}
+
+  /*GIF CONTAINERS*/
+  .gif-container img {
+    max-height: 80vh; /* Ensure it fits within 90% of the viewport height */
+    max-width: 100%; /* Prevent horizontal overflow */
+    object-fit: contain; /* Maintain aspect ratio */
+    display: block; /* Center-align adjustments */
+    margin: 0 auto;
+}
+
+.gif-container-small img {
+  max-height: 50vh; /* Ensure it fits within 90% of the viewport height */
+  max-width: 100%; /* Prevent horizontal overflow */
+  object-fit: contain; /* Maintain aspect ratio */
+  display: block; /* Center-align adjustments */
+  margin: 0 auto;
+}
+
+.gif-container-mid img {
+  max-height: 60vh; /* Ensure it fits within 90% of the viewport height */
+  max-width: 100%; /* Prevent horizontal overflow */
+  object-fit: contain; /* Maintain aspect ratio */
+  display: block; /* Center-align adjustments */
+  margin: 0 auto;
+}
+
+.gif-container-mini img {
+  max-height: 30vh; /* Ensure it fits within 90% of the viewport height */
+  max-width: 100%; /* Prevent horizontal overflow */
+  object-fit: contain; /* Maintain aspect ratio */
+  display: block; /* Center-align adjustments */
+  margin: 0 auto;
+}
+

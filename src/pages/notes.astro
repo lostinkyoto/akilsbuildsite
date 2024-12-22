@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/Hero.astro';
+
+
+const pageTitle = "Notes";
+
+
+
+
+---
+<BaseLayout pageTitle={pageTitle}>
+
+    <div class="gif-container-mini">
+        <img src="/public/images/hero/zomb.gif" alt="Zombie Image">
+    </div>
+
+
+  <Hero  heroTitle={"What's in my heaaaaad"} herosubTitle={"*Besides the Cranberries obvs"} />
+
+  <section>
+     
+    <ul class="bloglist">
+      <li><a href="/posts/notesposts/post-1/" >Day notes: 21 dec</a></li>
+      <li><a href="/posts/notesposts/post-2/">Day notes:19 dec</a></li>
+      <li><a href="/posts/notesposts/post-3/">Week notes:Week 2</a></li>
+     
+    </ul>
+
+  
+   </section>
+  
+
+</BaseLayout>

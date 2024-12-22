@@ -1,0 +1,44 @@
+---
+const pageTitle = "Blog";
+
+import '../styles/global.css';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/Hero.astro';
+
+---
+<BaseLayout pageTitle={pageTitle} >
+  
+  
+  
+  <div class="gif-container-mini" style="padding:50px;">
+    <img src="/public/images/hero/bild.gif" alt="Hero Image">
+</div>
+
+   
+  
+  <Hero heroTitle={"stuff I'm thinking about...."}>
+   
+     
+      </Hero>
+    
+  
+
+ <section>
+  
+
+  <ul class="bloglist">
+    <li><a href="/posts/post-1/" >Post 1</a></li>
+    <li><a href="/posts/post-2/">Post 2</a></li>
+    <li><a href="/posts/post-3/">Post 3</a></li>
+  </ul>
+
+
+ </section>
+  
+
+
+      <script>
+        import "../scripts/menu.js";
+      </script>
+
+</BaseLayout>

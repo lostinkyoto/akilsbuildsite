@@ -1,0 +1,113 @@
+/* Import the Inter font with weights for bold styles */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+
+
+/* Set up the base font styles */
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+   
+    color: #1d1d1d; /* Black text for contrast */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+
+h1 {
+    font-size: 5rem; /* Large, bold size for main title */
+    font-weight: 900; /* Black weight for extra-bold text */
+    line-height: 1.1; /* Adjust line-height for compactness */
+}
+
+h2 {
+    font-size: 3.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+h3 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+h4 {
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.4;
+}
+
+h5 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+h6 {
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+a {
+  text-decoration: none; /* Optional: Remove underlines */
+  color: black; /* Set your desired link color */
+}
+
+a:visited {
+  color: rgb(0, 0, 0); /* Same color as unvisited links */
+}
+
+
+/*LOGO*/
+
+.logo{
+    font-family: 'Homemade Apple', cursive; /* Fallback to cursive */
+    font-size: 2rem; /* Adjust size as needed */
+    font-weight: normal;
+}
+
+.headr .logo a:visited {
+    color: rgb(31, 31, 31); /* Change the color of the visited link */
+    text-decoration: none; /* Optional: remove underline */
+    font-weight: bold; /* Optional: make it bold */
+  }
+
+
+  /*HERO*/
+
+  .hero-title {
+    
+    font-family: 'Homemade Apple', cursive;
+    font-size: 3rem; /* Adjust size as needed */
+    font-weight: 700;
+    text-transform:none;    
+
+}
+
+    .hero-subtitle {
+        font-size: 20px;
+        font-weight: 500;
+        margin-bottom: 10px;
+        font-weight: 700;
+      }
+
+      
+ 
+      .hero-author a:hover {
+        text-decoration: underline;
+      }
+        
+    /*BLOG LIST*/
+
+    .bloglist{
+        font-size: 1.6rem;
+        font-weight: lighter;
+        list-style: none;
+    }

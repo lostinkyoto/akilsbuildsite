@@ -1,16 +1,36 @@
 ---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Heroindex from '../components/Heroindex.astro';
+import Greeting from '../components/Greeting';
+
+
+const pageTitle = "Home Page";
+
+
+
 
 ---
+<BaseLayout pageTitle={pageTitle} >
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>community</h1>
-	</body>
-</html>
+
+  <Heroindex  heroTitle={"Hello world!"} >
+   
+    <div class="gif-container">
+      <img src="/public/images/hero/dance.gif" alt="Hero Image">
+  </div>
+ 
+    </Hero>
+  <section >
+
+  <section> 
+    <h3 style="padding-bottom: 30px;">Here. <br>Take a quote. <br> With important life advice.<br></h3>
+  </section>
+
+<section style="border: 2px solid black; border-radius: 50px;">
+    <Greeting client:load messages={["Never put off 'till tomorrow what you can straight up cancel.", "Don't be ashamed of who you are. That's your parent's job.", "You only live once, but if you do it right, once is enough to regret everything", "You can be the change you wish to see in the world. OR. just stay in bed. The world won’t notice either way.","If at first you don’t succeed, maybe success wasn’t your thing anyway."]} />
+  </section>
+
+  <section>
+<h1 style="padding-top: 50px; padding-bottom: 30px;">.....kbye!</h1></section>
+</BaseLayout>
+

@@ -1,0 +1,19 @@
+---
+const { heroTitle, herosubTitle} = Astro.props;
+---
+<section>
+   
+   
+    <header class="hero-header">
+        
+        <h1 class="hero-title">{heroTitle}</h1>
+       
+        <p class="hero-subtitle">
+            <span>{ herosubTitle }</span>    
+        </p>
+    </header>
+    
+<slot />
+  
+
+</section>

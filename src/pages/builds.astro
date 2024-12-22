@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/Hero.astro';
+import BlogPost from '../components/BlogPost.astro';
+
+const allPosts = Object.values(import.meta.glob('./posts/buildposts/*.md', { eager: true }));
+
+const pageTitle = "Builds";
+---
+<BaseLayout pageTitle={pageTitle}>
+
+ 
+
+    <div class="gif-container-small">
+        <img src="/public/images/hero/puzz.gif" alt="windchime">
+    </div>
+
+
+  <Hero  heroTitle={"I like making stuff"}  />
+
+  <section>
+    <h3> Here are things I'm making....</h3>
+    <section>
+     
+      <ul class="bloglist">
+
+ {allPosts.map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+     
+      </ul>
+  
+    
+     </section>
+    
+  
+
+
+  <h5>I'm very busy ;p</h5>
+  
+   </section>
+
+
+    
+  
+  
+        <script>
+          import "../scripts/menu.js";
+        </script>
+  
+
+</BaseLayout>
