@@ -3,13 +3,19 @@
 layout: ../../../layouts/MarkdownPostLayout.astro
 
 
-title: My Second Blog Post
-author: Astro Learner
-description: "After learning some Astro, I couldn't stop!"
-image:
-    url: "https://docs.astro.build/assets/arc.webp"
-    alt: "The Astro logo on a dark background with a purple gradient arc."
-pubDate: 2022-07-08
-tags: ["astro", "blogging", "learning in public", "successes"]
+title: 'Jan 2 2025'
+author: akila
+
+description: "Left hand typing"
+
+
+pubDate: 2022-01-02
+tags:  ["daynotes", "2025", "jan2025"]
 ---
-After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
+
+##  Left hand typing
+
+- why am i awake :( it's 12:58. I've been awake since 11 something. sigh. should I be skeptical of sleep that comes at 9?
+- How do you load glass into a dishwasher? can swirling water break glass?
+- I'm trying to use the trackpad with my left hand, type with one hand, right hand hurts from shoulder down
+
