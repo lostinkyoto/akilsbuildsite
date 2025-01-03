@@ -123,4 +123,3 @@ This is a plan that chat GPT came up with for me this year-
 
 ---
 
-This plan follows the exact 2025 calendar. Let me know if you want to adjust any projects or add specific themes!
