@@ -4,6 +4,11 @@ const pageTitle = "Blog";
 import '../styles/global.css';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Hero from '../components/Hero.astro';
+import BlogPost from '../components/BlogPost.astro';
+
+const allPosts = Object.values(import.meta.glob('./posts/blogposts/*.md', { eager: true }));
+
+
 
 ---
 <BaseLayout pageTitle={pageTitle} >
@@ -27,10 +32,10 @@ import Hero from '../components/Hero.astro';
   
 
   <ul class="bloglist">
-   <h3>Coming soon</h3>
-  </ul>
 
-
+    {allPosts.map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+        
+         </ul>
  </section>
   
 
