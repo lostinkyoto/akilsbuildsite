@@ -1,14 +1,17 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Hero from '../components/Hero.astro';
+import BlogPost from '../components/BlogPost.astro';
+
+const allPosts = Object.values(import.meta.glob('./posts/lists/*.md', { eager: true }));
+
 
 
 const pageTitle = "Lists";
 
-
-
-
 ---
+
+
 <BaseLayout pageTitle={pageTitle}>
 
     <div class="gif-container-mini">
@@ -16,8 +19,18 @@ const pageTitle = "Lists";
     </div>
 
 
-  <Hero  heroTitle={"thing lists"} herosubTitle={"lists can be nice. sometimes."}>
-    </Hero>
+  <Hero  heroTitle={"thing lists"} herosubTitle={"lists can be nice. sometimes."}/>
+
+  <section>
+     
+    <ul class="bloglist">
+
+{allPosts.map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+   
+    </ul>
+
+  
+   </section>
 
  
   
