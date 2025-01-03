@@ -11,7 +11,7 @@ description: 'one build per week'
 
 tags: ["builds", "coding", "learning in public"]
 ---
-This is a test sentence
+
 ## 52- One coding project per week
 
 I'm going to try to follow along this video and build what he's building -
