@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: The Last 5 Hours
+title: Overly Ambitious writing goals for 2025
 pubDate: 2025-01-04
 description: Writing goals for 2025
 tags:
