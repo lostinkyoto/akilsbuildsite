@@ -8,5 +8,5 @@ tags:
 ---
 # Never Ending List Of Cool Studios-
 
-- Writing To Learn - William Zinsser
+- https://www.youtube.com/watch?v=otaSWMeT8w8
 - 
