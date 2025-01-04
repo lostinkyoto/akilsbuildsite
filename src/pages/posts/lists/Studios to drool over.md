@@ -6,7 +6,7 @@ description: Studios to drool over
 tags:
   - lists
 ---
-# Never Ending List Of cool studios-
+# Never Ending List Of Cool Studios-
 
 - Writing To Learn - William Zinsser
 - 
