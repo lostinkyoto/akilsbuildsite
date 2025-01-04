@@ -16,3 +16,5 @@ tags:
 - MANY 3D printers
 - MANY CNC plotting things
 - Bubble Gun
+- BACK FRONT FACING CAMERA RIG- Build a phone cover so you can use the back camera like a front facing camera so you can see yourself
+- 
