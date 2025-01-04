@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: Overly Ambitious goals for January
-pubDate: 2025-01-04
+pubDate: 2025-01-05
 description: January 2025 list of goals
 tags:
   - lists
