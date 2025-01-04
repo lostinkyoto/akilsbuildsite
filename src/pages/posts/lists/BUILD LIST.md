@@ -9,5 +9,5 @@ tags:
 # List of things I want to (maybe) build-
 
 
-- Display board for  
+- Display board for quotes - based on 3d printed segment display in this build- https://www.youtube.com/watch?v=2BOyJqzJVC0 
 - 
