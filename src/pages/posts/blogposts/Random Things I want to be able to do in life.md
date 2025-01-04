@@ -10,7 +10,7 @@ tags:
 - increase octave range (think i have 3/3.5, so up to 4?)
 - learn to whistle through fingers
 - learn to whistle tune well
-- 
+- learn to fly a helicopter
 
 
  
