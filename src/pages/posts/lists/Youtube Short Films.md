@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: TV shows to watch
+title: YT shorts
 pubDate: 2025-01-04
 description: Never ending list of YT short Films
 tags:

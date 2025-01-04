@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: TV shows to watch
+title: 3D print Things
 pubDate: 2025-01-04
 description: Never ending list of things to 3D Print
 tags:
