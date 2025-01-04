@@ -1,12 +1,12 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: Books To Study
+title: Studios to drool over
 pubDate: 2025-01-04
-description: Never ending list of study books
+description: Studios to drool over
 tags:
   - lists
 ---
-# Never Ending List Of Books to study-
+# Never Ending List Of cool studios-
 
 - Writing To Learn - William Zinsser
 - 
