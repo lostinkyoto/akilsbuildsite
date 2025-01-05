@@ -10,5 +10,5 @@ title: Web Redesign Inspo List
 	- Like the idea of having different designs for each post/idea
 	- Love the idea of text message formatting
 	- Love the comic/illustration style
+- [s]
 
-![[Screenshot 2025-01-05 at 17-30-51 Media Diary.png]]![[Screenshot 2025-01-05 at 17-30-13 Media Recap 2024.png]]![[Screenshot 2025-01-05 at 17-22-45 anhvn.png]]
