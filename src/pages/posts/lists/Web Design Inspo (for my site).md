@@ -1,6 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: Web Redesign Inspo List
+tags: tags: ["webdesign","inspo"]
 ---
 
 
