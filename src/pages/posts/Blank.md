@@ -1,5 +1,0 @@
----
-layout: 
-pubDate: 
-title:
----

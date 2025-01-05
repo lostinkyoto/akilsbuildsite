@@ -2,8 +2,7 @@
 layout: ../../../layouts/MarkdownPostLayout.astro
 pubDate: 2025-01-05
 title: Wood Working Builds
-tags:
-  - woodworking
+tags: []
 ---
 # Never-ending List of Woodworking Projects
 
