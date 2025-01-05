@@ -186,3 +186,15 @@ section{
   margin: 0 auto;
 }
 
+/*MARKDOWN POSTS*/
+
+.post-body{
+  margin: 20px;
+  padding: 30px;
+  align-items: left;
+}
+
+.markdown-post{
+  margin:50px;
+}
+
