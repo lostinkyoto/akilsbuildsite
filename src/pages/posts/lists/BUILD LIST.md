@@ -17,4 +17,5 @@ tags:
 - MANY CNC plotting things
 - Bubble Gun
 - BACK FRONT FACING CAMERA RIG- Build a phone cover so you can use the back camera like a front facing camera so you can see yourself
+- PLASMA WAND-https://www.youtube.com/watch?v=Abyh5F186yM
 - 
