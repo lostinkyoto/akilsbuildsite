@@ -1,9 +1,8 @@
 ---
-layout: ../../../layouts/MarkdownPostLayout.astro
-title: Web Redesign Inspo List
-tags: tags: ["webdesign","inspo"]
+title: "Web Design Inspo (for my site)"
+date: "2025-01-05"
+description: "A collection of web design ideas for inspiration."
 ---
-
 
 # A list of websites to use as inspiration for my redesign
 
