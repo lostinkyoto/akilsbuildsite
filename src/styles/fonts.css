@@ -111,3 +111,53 @@ a:visited {
         font-weight: lighter;
         list-style: none;
     }
+
+    /* BLOGPOST FONTS*/
+
+    section.post-body h1 {
+
+        font-family:'Homemade Apple', cursive;
+        font-size: 2rem;
+    }
+
+
+section.post-body p{
+    text-align: left;
+}
+
+section.post-body ul {
+    list-style: none; 
+    padding-left: 0;  
+}
+
+section.post-body ul li {
+    position: relative; /* Allows positioning for the pseudo-element */
+    padding-left: 60px; /* Add space for the rotating PNG */
+    
+}
+
+section.post-body ul li::before {
+    content: '';
+    position: absolute;
+    top: 50%; /* Vertically center */
+    left: 0; /* Align to the left of the list item */
+    transform: translateY(-50%) rotate(0deg); /* Center the PNG and set initial rotation */
+    width: 40px; /* Adjust to the size of your PNG */
+    height: 40px;
+    background: url('/public/icons/x.png') no-repeat center center;
+    background-size: contain;
+    animation: rotate-animation 2s infinite; /* Add the animation */
+}
+
+/* ANIMATION FOR DOT */
+@keyframes rotate-animation {
+    0% {
+        transform: translateY(-50%) rotate(0deg);
+    }
+    50% {
+        transform: translateY(-50%) rotate(-180deg);
+    }
+    100% {
+        transform: translateY(-50%) rotate(180deg);
+    }
+}
