@@ -2,6 +2,7 @@
 layout: ../../../layouts/MarkdownPostLayout.astro
 pubDate: 2025-01-05
 title: List of Book Lists
+tags: ["books", "readlist", "lists"]
 ---
 # A list of lists
 

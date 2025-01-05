@@ -3,12 +3,7 @@ layout: ../../../layouts/BuildPostLay.astro
 title: 5 Advanced Coding Builds
 pubDate: 2025-01-05
 description: 3D prints in my first three days
-tags:
-  - builds
-  - coding
-  - learning
-  - in
-  - public
+tags: ["builds", "3dprinting", "learning in public"]
 ---
 # All the stuff I've printed in the last 3 days
 

@@ -3,9 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: Nerd COOL videos
 pubDate: 2025-01-05
 description: Nerd COOL videos
-tags:
-  - lists
-  - tv
+tags: ["coolvidoes", "YT"]
 ---
 # Never Ending COOL! Nerd Videos
 

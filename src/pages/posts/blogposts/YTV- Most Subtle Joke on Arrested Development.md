@@ -3,8 +3,8 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: YTV- Most Subtle Joke on Arrested Development
 pubDate: 2025-01-04
 description: YTV- Most Subtle Joke on Arrested Development
-tags:
-  - lists
+tags: ["YT", "tv", "funny"]
+
 ---
 ### I COMPLETELY missed this (and I've seen Arrested Development idk how many times)
 

@@ -3,9 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: YT shorts
 pubDate: 2025-01-04
 description: Never ending list of YT short Films
-tags:
-  - lists
-  - tv
+tags: ["coolvidoes", "YT","shortfilms"]
 ---
 # Never Ending List Of Short Films To Watch-
 

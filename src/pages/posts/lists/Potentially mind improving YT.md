@@ -3,10 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: Stories
 pubDate: 2025-01-05
 description: (Possibly) Educational YT content
-tags:
-  - lists
-  - tv
-  - kdrama
+tags: ["coolvidoes", "YT"]
 ---
 # Never Ending List Of YT educational videos (mostly based on thumbnails, reccos and titles)
 

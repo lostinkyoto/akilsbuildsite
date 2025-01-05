@@ -3,9 +3,7 @@ layout: ../../../layouts/MarkdownPostLayout.astro
 title: Technologyyyy! I want.
 pubDate: 2025-01-05
 description: tech advances and things in tech im excited about
-tags:
-  - lists
-  - tv
+tags: ["engineering","coolthings"]
 ---
 # Never Ending COOL tech I WANT NOW YESTERDAY
 
