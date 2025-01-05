@@ -1,6 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: Brain Dump List for website redesign
+description: '"A quick overview of ideas for learning."'
 ---
 ### Brain Dump (Learn)
 
