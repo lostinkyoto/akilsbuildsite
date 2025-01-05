@@ -144,7 +144,7 @@ section.post-body ul li::before {
     transform: translateY(-50%) rotate(0deg); /* Center the PNG and set initial rotation */
     width: 40px; /* Adjust to the size of your PNG */
     height: 40px;
-    background: url('/public/icons/x.png') no-repeat center center;
+    background: url('/icons/x.png') no-repeat center center;
     background-size: contain;
     animation: rotate-animation 2s infinite; /* Add the animation */
 }
