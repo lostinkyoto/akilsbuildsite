@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: Stories
+title: "YT (possibly)educational Videos"
 pubDate: 2025-01-05
 description: (Possibly) Educational YT content
 tags: ["coolvidoes", "YT"]
