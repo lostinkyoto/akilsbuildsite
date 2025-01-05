@@ -198,3 +198,37 @@ section{
   margin:50px;
 }
 
+
+/*HABIT TRACKER*/
+
+#habit-tracker {
+  font-family: 'Inter', sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+table {
+  border: 1px solid #ccc;
+}
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+.days {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.day {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  margin: 2px;
+  cursor: pointer;
+  background-color: #f9f9f9;
+}
+.day.checked {
+  background-color: #4caf50;
+  color: white;
+}
+
