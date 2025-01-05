@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: YT shorts
-pubDate: 2025-01-04
+title: Nerd COOL videos
+pubDate: 2025-01-05
 description: Nerd COOL videos
 tags:
   - lists

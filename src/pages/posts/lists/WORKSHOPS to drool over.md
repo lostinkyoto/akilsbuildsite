@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
 title: Workshops to drool over
-pubDate: 2025-01-04
+pubDate: 2025-01-05
 description: Workshops to drool over
 tags:
   - lists
