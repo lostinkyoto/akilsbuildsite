@@ -20,3 +20,4 @@ tags:
 - PLASMA WAND-https://www.youtube.com/watch?v=Abyh5F186yM
 - Compact Slayer Exciter- https://hackaday.com/2020/03/21/compact-slayer-exciter-for-your-high-voltage-needs/
 - Tree Generator- https://www.youtube.com/watch?v=dUPBeEWH418
+- LLM robot explorer- https://www.youtube.com/watch?v=0O8RHxpkcGc
