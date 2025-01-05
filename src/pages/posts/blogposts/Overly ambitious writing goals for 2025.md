@@ -9,10 +9,10 @@ tags: ["2025","2025goals"]
 
 # If pigs could fly...
 
--clarion workshop application
--send out ? short stories per month to publications -(4/5?)
--write "the sector"
--figure out what substack is and use it.
+- clarion workshop application
+- send out ? short stories per month to publications -(4/5?)
+- write "the sector"
+- figure out what substack is and use it.
 
 
 
