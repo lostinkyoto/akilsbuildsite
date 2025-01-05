@@ -11,6 +11,10 @@ tags:
 - learn to whistle through fingers
 - learn to whistle tune well
 - learn to fly a helicopter
+- stick fighting
+- sword fighting
+- fighting
+- 
 
 
  
