@@ -10,4 +10,15 @@ tags:  ["tv","kdrama","shows","watchlist"]
 
 - Beef
 - The Knick
+- Chernobyl
+- Lovecraft country
+- Leftovers
+- Dune Prophecy
+- Treme
+- Atlanta
+- The Gilded Age
+- Land of women
+- Disclaimer
+- The third day
+- Industry
 - 
