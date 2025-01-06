@@ -25,4 +25,5 @@ tags:  ["tv","kdrama","shows","watchlist"]
 - Gentleman Jack
 - The plot against America
 - The Regime
+- Dickinson
 - 
