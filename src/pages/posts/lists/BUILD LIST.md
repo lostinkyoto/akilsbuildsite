@@ -22,4 +22,5 @@ tags: ["builds", "engineering", "lists","buildlists"]
 - LLM robot explorer- https://www.youtube.com/watch?v=0O8RHxpkcGc
 - Build an app for local insomniacs to hang out on?
 - automated nail/screw sorter
+- solar drone
 - 
