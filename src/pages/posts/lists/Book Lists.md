@@ -9,5 +9,5 @@ tags:
 ---
 # Things to read
 
-- The Blue Lotus- play
+- The Blue Lotus- Play
 - 
