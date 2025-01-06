@@ -13,3 +13,4 @@ pubDate: 2025-01-05
 - Will setting up the projector help with learning better/faster?
 - What are the tips to study better in the korean drama Sky Castle? Something about light?
 - What are things that increase neuro-plasticity?
+- colortron lerning pattern
