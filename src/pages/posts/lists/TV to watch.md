@@ -21,4 +21,8 @@ tags:  ["tv","kdrama","shows","watchlist"]
 - Disclaimer
 - The third day
 - Industry
+- Jackal
+- Gentleman Jack
+- The plot against America
+- The Regime
 - 
