@@ -14,11 +14,15 @@ tags:
 
 # The first issue I have is- no clear problem statement
 
-And I don't want to create one clear problem statement because I feel like I want to design like an everything palace. 
+And I can't make one cause I don't want to create one clear problem statement because I feel like I want to design like an everything palace. Which is an especially stupid loop to get stuck in (face palm emoji)
 
 
 ## solution a: lists.
-One possible solution to this is to break the overall thing into smaller sub groups? Maybe a list of builds under the main build? Let's start (and see if this takes me anywhere):
+One possible solution to this is to break the overall thing into smaller sub groups? 
+Maybe a list of builds under the main build? 
+Maybe list of features or inspiration?
+
+Let's start (and see if this takes me anywhere):
 
 
 ### sub site list-
@@ -34,6 +38,12 @@ One possible solution to this is to break the overall thing into smaller sub gro
 ### random feature list-
  - Toggle for story?
  - Blog posts with cool image things
+ - magic 8 ball/book of answers
+- games?
 
 ### inspirational elements list-
-- columbia ed side slide menu option
+- Right side slide out full page menu option-
+- Postcards for messages
+
+
+## solution b: 
