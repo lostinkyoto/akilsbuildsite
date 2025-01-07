@@ -21,7 +21,7 @@ And I can't make one cause I don't want to create one clear problem statement be
 One possible solution to this is to break the overall thing into smaller sub groups? 
 Maybe a list of builds under the main build? 
 Maybe list of features or inspiration?
-
+Design considerations?
 Let's start (and see if this takes me anywhere):
 
 
@@ -46,4 +46,9 @@ Let's start (and see if this takes me anywhere):
 - Postcards for messages
 
 
-## solution b: 
+## solution b: skeleton..
+
+Some kind of build to iterate off of. Put it online. 
+
+## solution c: workshop tools..
+This is a thing I saw in an Adam Savage video where he says when he doesn't know what to build he 
