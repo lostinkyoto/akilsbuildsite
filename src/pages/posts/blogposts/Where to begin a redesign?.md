@@ -12,7 +12,7 @@ tags:
 ---
 # Where do I start?
 
-# The first issue I have is- no clear problem statement
+# The main issue I have is- no clear problem statement
 
 And I can't make one cause I don't want to create one clear problem statement because I feel like I want to design like an everything palace. Which is an especially stupid loop to get stuck in (face palm emoji)
 
@@ -51,4 +51,14 @@ Let's start (and see if this takes me anywhere):
 Some kind of build to iterate off of. Put it online. 
 
 ## solution c: workshop tools..
-This is a thing I saw in an Adam Savage video where he says when he doesn't know what to build he 
+This is a thing I saw in an Adam Savage video where he says when he doesn't know what to build he builds things for his workshop. What's that version of this? Tools for coding? Tools for web development? Components maybe? Individual pages?
+
+
+## solution d: define something else definable..
+When I don't know what I want to build I decide either what I'm going to build it with or how I'm going to build it.
+
+#### Material:
+Frameworks maybe? or html elements? or implement the same thing with different programming languages?
+
+#### Build Process:
+Maybe conversion from Figma? Or some other medium? 
