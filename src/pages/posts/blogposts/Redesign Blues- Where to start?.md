@@ -1,6 +1,6 @@
 ---
 layout: ../../../layouts/MarkdownPostLayout.astro
-title: Re/design Blues- Where to start?
+title: Redesign Blues- Where to start?
 pubDate: 2025-01-07
 description: Thoughts on designing
 tags:
