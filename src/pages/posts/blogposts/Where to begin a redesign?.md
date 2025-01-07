@@ -61,4 +61,5 @@ When I don't know what I want to build I decide either what I'm going to build i
 Frameworks maybe? or html elements? or implement the same thing with different programming languages?
 
 #### Build Process:
-Maybe conversion from Figma? Or some other medium? 
+Maybe conversion from Figma? Or some other medium? Maybe using a cms? Lookup different build processes and try?
+
