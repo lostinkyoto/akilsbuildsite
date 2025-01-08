@@ -11,4 +11,5 @@ tags: ["tv","kdrama","shows","watchlist"]
 - Queen of Tears
 - Sky Castle
 - My Demon
+- When the stars gossip
 - 
