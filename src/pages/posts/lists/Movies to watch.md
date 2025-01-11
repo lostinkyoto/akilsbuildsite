@@ -12,7 +12,7 @@ tags:
 # Never Ending List Of TV To Watch-
 
 - Erin brickovich
-- Reservoir dogs
-- django
+- ~~Reservoir dogs~~
+- ~~django~~
 - saving private ryan
-- 
+- infernal affairs
