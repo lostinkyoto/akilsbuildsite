@@ -15,6 +15,8 @@ tags: ["lifegoals","goals"]
 - sword fighting
 - fighting
 - accents
+- fly a kite
+- 
 
 
  
